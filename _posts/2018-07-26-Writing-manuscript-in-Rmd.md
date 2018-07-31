@@ -7,7 +7,7 @@ I am trying to figure out how to write a manuscript in R markdown. I am going to
 1. Create a project folder and a subdirectory 'doc' to save the manuscripts.
 2. RStudio -> File -> New File -> RMarkdown. 
 3. Install, pandoc brew install pandoc
-4. Install <a href="tinytex::install_tinytex()">TinyTex</a>
+4. Install TinyTex using tinytex::install_tinytex()
 5. To facilitate the installtion : tlmgr install collection-fontsrecommended
 6. If there is an error : LaTeX Error: File `framed.sty` not found - 
 I) Do the following on Terminal- 
