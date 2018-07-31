@@ -16,3 +16,7 @@ ii)sudo tlmgr update --self
 iii) sudo tlmgr install framed
 7. Update TinyTex with devtools::install_github('yihui/tinytex')
 8. Create a .bib file with all the citation keys and cite using, [@CiteKey].
+
+Also, < ahref="https://stackoverflow.com/questions/51560416/error-when-output-rticlesplos-article-used-in-rmarkdown">here</a> is a link to the StackOverflow question I asked with respect to this issue. 
+
+Happy Writing!!
