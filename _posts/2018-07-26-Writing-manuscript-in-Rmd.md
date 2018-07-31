@@ -15,3 +15,4 @@ i) sudo tlmgr install titling
 ii)sudo tlmgr update --self
 iii) sudo tlmgr install framed
 7. Update TinyTex with devtools::install_github('yihui/tinytex')
+8. Create a .bib file with all the citation keys and cite using, [@CiteKey].
