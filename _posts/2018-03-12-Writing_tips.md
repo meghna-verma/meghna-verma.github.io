@@ -8,5 +8,6 @@ I write in various styles both technical as well as non-technical. I keep search
 
 ## List of resources
 
-1. 10 tips to improve your research articles <href> http://www.ascistance.co.uk/blog/impactful-writing/10-tips-to-improve-your-research-articles/ </href>
+* <a href="http://www.ascistance.co.uk/blog/impactful-writing/10-tips-to-improve-your-research-articles/"> 10 tips to improve your research articles </a>
+
 
