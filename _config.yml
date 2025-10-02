@@ -1,3 +1,56 @@
-name: Meghna Verma, PhD Candidate
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+title: "Meghna Verma"
+email: "meghnaverma.phd@gmail.com"
+description: "Quantitative Systems Pharmacology | Pharmacometrics | Notes & Blog"
+url: "https://meghna-verma.github.io"
+baseurl: ""   # leave empty for user site
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+author:
+  name   : "Meghna Verma"
+  avatar : "/images/Verma01_github.jpg"   # add /images/avatar.jpg
+  bio    : "QSP modeler | Systesm Pharmacology researcher"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/meghna-verma"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/meghna-verma/"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-7776-0433"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+
+collections:
+  posts:
+    output: true
+
+nav:
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /cv/
+  - title: "Legacy"
+    url: /legacy/
+
