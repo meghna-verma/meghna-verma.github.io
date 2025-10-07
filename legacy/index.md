@@ -6,4 +6,4 @@ author_profile: false
 ---
 
 This page preserves the original content from my first GitHub Pages website.  
-Paste or migrate any text youâ€™d like to retain from your prior version here.
+Paste or migrate any text you like to retain from your prior version here.
