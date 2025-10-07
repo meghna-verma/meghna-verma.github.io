@@ -9,6 +9,7 @@ author_profile: true
 Associate Director, Systems Medicine | Clinical Pharmacology & Quantitative Pharmacometrics  
 AstraZeneca, Gaithersburg, MD, USA  
 
+<<<<<<< HEAD
 ðŸ“§ meghnaverma.phd@gmail.com  
 ðŸ”— [GitHub](https://github.com/meghna-verma) | [ORCID](https://orcid.org/0000-0002-7776-0433)
 
@@ -39,3 +40,7 @@ Quantitative pharmacologist with expertise in **QSP, PK/PD, and mechanistic mode
 ---
 
 ðŸ“„ **Download PDF:** [Verma_CV.pdf](/files/Verma_CV.pdf)
+=======
+meghnaverma.phd@gmail.com  
+[GitHub](https://github.com/meghna-verma)
+>>>>>>> 68d5b88fd3e518164fab37ee64f68d9053a4d891
