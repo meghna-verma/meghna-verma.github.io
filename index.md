@@ -5,12 +5,12 @@ permalink: /
 author_profile: true
 ---
 
-Welcome to my personal website.  
-Iâ€™m a **Quantitative Systems Pharmacology (QSP) modeler** working on infectious disease modeling, pharmacometrics, and translational science.  
+Welcome to my professional website.
 
-Here youâ€™ll find my **blog posts**, **CV**, and project highlights.  
+I'm a **Quantitative Systems Pharmacology (QSP) modeler** with interests in pharmacometrics, infectious-disease modeling, and translational systems science.
 
-### Latest Posts
-{%- for post in site.posts limit:3 -%}
-- [{{ post.title }}]({{ post.url }}) <small>({{ post.date | date: "%b %d, %Y" }})</small>
-{%- endfor -%}
+Explore:
+- [About](/about/)
+- [Projects](/projects/)
+- [CV](/cv/)
+- [Blog](/blog/)
