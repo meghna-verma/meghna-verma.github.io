@@ -1,55 +1,55 @@
 ﻿title: "Meghna Verma"
 email: "meghnaverma.phd@gmail.com"
 description: "Quantitative Systems Pharmacology | Pharmacometrics | Notes & Blog"
-url: "https://meghnaverma.com" # <--- UPDATED to custom domain
-baseurl: ""Â  Â # leave empty for user site
+url: "https://meghna-verma.github.io"
+baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
-Â  - jekyll-remote-theme
-Â  - jekyll-paginate
-Â  - jekyll-sitemap
-Â  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
 
 paginate: 5
 paginate_path: "/blog/page:num/"
 
 author:
-Â  nameÂ  Â : "Meghna Verma"
-Â  avatar : "/images/Verma01_github.jpg"Â  Â # add /images/avatar.jpg
-Â  bioÂ  Â  : "QSP modeler | Systems Biology researcher"
-Â  links:
-Â  Â  - label: "GitHub"
-Â  Â  Â  icon: "fab fa-github"
-Â  Â  Â  url: "https://github.com/meghna-verma"
-Â  Â  - label: "LinkedIn"
-Â  Â  Â  icon: "fab fa-linkedin"
-Â  Â  Â  url: "https://www.linkedin.com/in/meghna-verma/"
-Â  Â  - label: "ORCID"
-Â  Â  Â  icon: "ai ai-orcid"
-Â  Â  Â  url: "https://orcid.org/0000-0002-7776-0433"
+  name   : "Meghna Verma"
+  avatar : "/images/avatar.jpg"
+  bio    : "QSP modeler | Pharmacometrics researcher | Blogger"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/meghna-verma"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/YOUR-LINKEDIN"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-7776-0433"
 
 defaults:
-Â  - scope:
-Â  Â  Â  path: ""
-Â  Â  Â  type: "posts"
-Â  Â  values:
-Â  Â  Â  layout: "single"
-Â  Â  Â  author_profile: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
 
 collections:
-Â  posts:
-Â  Â  output: true
+  posts:
+    output: true
 
 nav:
-Â  - title: "About"
-Â  Â  url: /about/
-Â  - title: "Blog"
-Â  Â  url: /blog/
-Â  - title: "Projects"
-Â  Â  url: /projects/
-Â  - title: "CV"
-Â  Â  url: /cv/
-Â  - title: "Legacy"
-Â  Â  url: /legacy/
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /cv/
+  - title: "Legacy"
+    url: /legacy/

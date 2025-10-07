@@ -6,8 +6,8 @@ tags: [QSP, Pharmacometrics]
 author: "Meghna Verma"
 ---
 
-This is the first post on my revamped website.Â Â 
+This is the first post on my revamped website.  
 
-Iâ€™ll be sharing thoughts on **QSP modeling**, **pharmacometrics**, **infectious disease modeling**, and some personal reflections.Â Â 
+Iâ€™ll be sharing thoughts on **QSP modeling**, **pharmacometrics**, **infectious disease modeling**, and some personal reflections.  
 
 Stay tuned!
