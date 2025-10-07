@@ -1,6 +1,6 @@
 ﻿title: "Meghna Verma"
 email: "meghnaverma.phd@gmail.com"
-description: "Quantitative Systems Pharmacology | Pharmacometrics | Notes & Blog"
+description: "Quantitative Systems Pharmacology | Pharmacometrics | Infectious Disease Modeling"
 url: "https://meghna-verma.github.io"
 baseurl: ""
 
@@ -38,16 +38,14 @@ defaults:
       layout: "single"
       author_profile: true
 
-collections:
-  posts:
-    output: true
-
 nav:
+  - title: "Home"
+    url: /
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /blog/
-  - title: "Projects"
-    url: /projects/
   - title: "CV"
     url: /cv/
+  - title: "Projects"
+    url: /projects/
+  - title: "Blog"
+    url: /blog/
