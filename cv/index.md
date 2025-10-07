@@ -10,5 +10,5 @@ author_profile: true
 Associate Director, Systems Medicine | Clinical Pharmacology & Quantitative Pharmacometrics  
 AstraZeneca, Gaithersburg, MD, USA  
 
-ðŸ“§ meghnaverma.phd@gmail.com  
-ðŸ”— [GitHub](https://github.com/meghna-verma)
+meghnaverma.phd@gmail.com  
+[GitHub](https://github.com/meghna-verma)
