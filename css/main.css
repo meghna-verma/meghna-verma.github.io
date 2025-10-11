@@ -49,10 +49,10 @@ footer { border-top: 1px solid #e5e5e5; font-size: .9em; margin-top: 40px; paddi
 
 /* home layout */
 .home-grid{ display: flex; gap: 32px; align-items: start; }
-.home-grid .left{ width: 180px; display:flex; flex-direction: column; align-items: flex-start; }
+.home-grid .left{ width: 160px; display:flex; flex-direction: column; align-items: center; }
 .home-grid .right{ flex: 1; }
 
-.profile{ width: 150px; height: auto; border-radius: 6px; display: block; box-shadow: 0 6px 16px rgba(0,0,0,0.07); }
+.profile{ width: 140px; height: 140px; object-fit: cover; border-radius: 50%; display: block; box-shadow: 0 6px 16px rgba(0,0,0,0.07); border: 2px solid #f3f3f3; }
 
 .side-links{ margin-top: 12px; padding: 0; list-style: none; }
 .side-links li{ margin-bottom: 8px; }
@@ -68,5 +68,5 @@ ul.posts li { list-style: none; margin-bottom: 6px; }
 @media (max-width: 680px){
     .home-grid{ flex-direction: column; }
     .home-grid .left{ width: 100%; align-items: center; }
-    .profile{ width: 120px; margin: 0 auto; }
+    .profile{ width: 120px; height: 120px; margin: 0 auto; }
 }
