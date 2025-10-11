@@ -1,5 +1,4 @@
 ﻿title: "Meghna Verma"
-email: "meghnaverma.phd@gmail.com"
 description: "Quantitative Systems Pharmacology | Pharmacometrics | Notes & Blog"
 url: "https://meghna-verma.github.io"
 baseurl: ""
@@ -17,8 +16,8 @@ paginate_path: "/blog/page:num/"
 
 author:
   name   : "Meghna Verma"
-  avatar : "/images/avatar.jpg"
-  bio    : "QSP modeler | Pharmacometrics researcher | Blogger"
+  avatar : "/images/Verma01_github.jpg"
+  bio    : "Quantitative Systems Pharmacology (QSP) modeler working on infectious-disease dynamics, pharmacometric workflows, and translational modeling."
   links:
     - label: "GitHub"
       icon: "fab fa-github"
